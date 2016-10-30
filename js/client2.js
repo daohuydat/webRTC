@@ -1,4 +1,4 @@
-var connection = new WebSocket('wss:https://daohuydat.github.io/webRTC/p2p.html');
+var connection = new WebSocket('wss://daohuydat.github.io/webRTC/p2p.html');
 var name = "";
 
 var loginName = document.querySelector('#loginName');
